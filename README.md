@@ -1,6 +1,5 @@
 # ___
 
-<img src="https://user-images.githubusercontent.com/27007662/167295742-2f390c92-40b9-4f29-a3aa-797e78e99446.png" width="100" height="200"> 
 <img src="https://www.cnet.com/a/img/resize/3d2068541b6008e1ecd22502b1c7450f8fe396e1/hub/2017/07/10/ebc7f6fc-2e9d-4f0a-9cf4-6c7d327d570e/080128-f-3927s-024.jpg?auto=webp&width=1200">
 
 
