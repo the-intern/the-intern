@@ -2,7 +2,6 @@
 
 <img src="https://user-images.githubusercontent.com/27007662/167295742-2f390c92-40b9-4f29-a3aa-797e78e99446.png" width="100" height="200"> 
 
-<img src="https://user-images.githubusercontent.com/27007662/167271468-4a0087f8-e1ff-4d73-8474-c335ba040206.png" width="300" height="200">
 
 
 <!--
