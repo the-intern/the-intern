@@ -1,5 +1,5 @@
 # .
-<img src="pe3d3kk23axxm0j0aaj3dda2ttk1" alt="Profile image" width="180" />
+<img src="pe3d3kk23axxm0j0aaj3dda2ttk1" alt="Profile image" height="1200" width="1600" />
 
 <!--
 **the-intern/the-intern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
