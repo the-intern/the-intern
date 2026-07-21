@@ -1,7 +1,5 @@
 # .
-
-<img alt="Bompietro hillside village" class="size-full !object-contain flex !max-h-full bg-dark transition-all ease-in-out" draggable="false" referrerpolicy="no-referrer" src="https://d3gd1yc37idnqe.cloudfront.net/pe3d3kk23axxm0j0aaj3dda2ttk1">
-
+<img src="https://example.com/image.png" alt="My profile image" width="200" />
 <!--
 **the-intern/the-intern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
