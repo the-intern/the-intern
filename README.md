@@ -1,5 +1,6 @@
 # .
-<img src="https://example.com/image.png" alt="My profile image" width="200" />
+<img src="pe3d3kk23axxm0j0aaj3dda2ttk1" alt="Profile image" width="180" />
+
 <!--
 **the-intern/the-intern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
